@@ -1,0 +1,16 @@
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\bin\Debug\netcoreapp3.1\Zastita_Projekat.exe
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\bin\Debug\netcoreapp3.1\Zastita_Projekat.deps.json
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\bin\Debug\netcoreapp3.1\Zastita_Projekat.runtimeconfig.json
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\bin\Debug\netcoreapp3.1\Zastita_Projekat.runtimeconfig.dev.json
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\bin\Debug\netcoreapp3.1\Zastita_Projekat.dll
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\bin\Debug\netcoreapp3.1\Zastita_Projekat.pdb
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\obj\Debug\netcoreapp3.1\Zastita_Projekat.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\obj\Debug\netcoreapp3.1\Zastita_Projekat.Form1.resources
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\obj\Debug\netcoreapp3.1\Zastita_Projekat.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\obj\Debug\netcoreapp3.1\Zastita_Projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\obj\Debug\netcoreapp3.1\Zastita_Projekat.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\obj\Debug\netcoreapp3.1\Zastita_Projekat.AssemblyInfo.cs
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\obj\Debug\netcoreapp3.1\Zastita_Projekat.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\obj\Debug\netcoreapp3.1\Zastita_Projekat.dll
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\obj\Debug\netcoreapp3.1\Zastita_Projekat.pdb
+C:\Users\acer\source\repos\Zastita_Projekat\Zastita_Projekat\obj\Debug\netcoreapp3.1\Zastita_Projekat.genruntimeconfig.cache
